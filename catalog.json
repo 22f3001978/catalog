@@ -1,0 +1,41 @@
+    {
+  "metadata": {
+    "email": "22f3001978@ds.study.iitm.ac.in",
+    "version": "80a3f15d"
+  },
+  "products": [
+    { "id": 1, "name": "Laptop Pro 15", "category": "electronics", "price": 65000.00, "stock": 10, "rating": 4.5 },
+    { "id": 2, "name": "Wireless Mouse", "category": "electronics", "price": 1200.00, "stock": 25, "rating": 4.2 },
+    { "id": 3, "name": "Bluetooth Headphones", "category": "electronics", "price": 3500.00, "stock": 18, "rating": 4.4 },
+    { "id": 4, "name": "Smartphone X", "category": "electronics", "price": 55000.00, "stock": 8, "rating": 4.6 },
+    { "id": 5, "name": "Tablet Air", "category": "electronics", "price": 42000.00, "stock": 5, "rating": 4.3 },
+
+    { "id": 6, "name": "Running Shoes", "category": "fashion", "price": 3000.00, "stock": 30, "rating": 4.1 },
+    { "id": 7, "name": "Leather Jacket", "category": "fashion", "price": 5000.00, "stock": 12, "rating": 4.5 },
+    { "id": 8, "name": "Wrist Watch", "category": "fashion", "price": 4500.00, "stock": 20, "rating": 4.0 },
+    { "id": 9, "name": "Backpack", "category": "fashion", "price": 2000.00, "stock": 15, "rating": 4.3 },
+    { "id": 10, "name": "Sunglasses", "category": "fashion", "price": 1500.00, "stock": 40, "rating": 4.2 },
+
+    { "id": 11, "name": "Office Chair", "category": "home", "price": 7000.00, "stock": 10, "rating": 4.4 },
+    { "id": 12, "name": "Coffee Table", "category": "home", "price": 8000.00, "stock": 7, "rating": 4.1 },
+    { "id": 13, "name": "LED Lamp", "category": "home", "price": 1200.00, "stock": 20, "rating": 4.3 },
+    { "id": 14, "name": "Curtains Set", "category": "home", "price": 2500.00, "stock": 18, "rating": 4.2 },
+    { "id": 15, "name": "Wall Clock", "category": "home", "price": 1000.00, "stock": 25, "rating": 4.0 },
+
+    { "id": 16, "name": "Notebook Pack", "category": "stationery", "price": 500.00, "stock": 50, "rating": 4.1 },
+    { "id": 17, "name": "Ball Pen Set", "category": "stationery", "price": 300.00, "stock": 60, "rating": 4.2 },
+    { "id": 18, "name": "Desk Organizer", "category": "stationery", "price": 800.00, "stock": 22, "rating": 4.3 },
+    { "id": 19, "name": "Sticky Notes", "category": "stationery", "price": 200.00, "stock": 70, "rating": 4.0 },
+    { "id": 20, "name": "Marker Pack", "category": "stationery", "price": 400.00, "stock": 35, "rating": 4.2 },
+
+    { "id": 21, "name": "Yoga Mat", "category": "fitness", "price": 1500.00, "stock": 15, "rating": 4.3 },
+    { "id": 22, "name": "Dumbbell Set", "category": "fitness", "price": 5000.00, "stock": 10, "rating": 4.5 },
+    { "id": 23, "name": "Skipping Rope", "category": "fitness", "price": 300.00, "stock": 40, "rating": 4.1 }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 5,
+      "inventoryValue": 155818.15
+    }
+  }
+}
